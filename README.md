@@ -1,5 +1,5 @@
 # [GAME] Rock Paper Scissors by MiroslavMhlv
-Welcome to Rock Paper Scissors by MiroslavMhlv! This simple console game allows you to play the classic Rock Paper Scissors against the computer.
+Welcome to Rock Paper Scissors by MiroslavMhlv! This simple console game allows you to play the classic "Rock-Paper-Scissors" against the computer.
 
 <img alt="image" width="80px" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*G9UfaUBS_VqtFILMe37fZw.jpeg" />
 
